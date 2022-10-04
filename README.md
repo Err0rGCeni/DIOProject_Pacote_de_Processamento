@@ -1,9 +1,8 @@
 # gceni_testing (copy)
 
-Description. 
 Pacote para TESTAR criação de pacotes:
-	- skimage - exposure
-	- skimage - filter
++ skimage - exposure
++ skimage - filter
 
 ## Installation
 
